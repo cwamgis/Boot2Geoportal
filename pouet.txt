@@ -5,12 +5,13 @@ Ceci est un fichier pouet//MODIFICATION 1.1 du fichier
 Ceci est une modification
 ## modification dans github ##
 Une petite derniere
-Non une autre pour la route // TEST DE FIN DE JOURNEE : c'est l'heure de l'apéritif!
+Non une autre pour la route // TEST DE FIN DE JOURNEE : c'est l'heure de l'apÃ©ritif!
 // The fatal one // MODIF
 // AJOUT
 
-######## Modification dans mon �diteur de texte en local ########
+######## Modification dans mon éditeur de texte en local ########
 
 // AJOUT ## modification dans github##
 ## modification dans github##
 
+Prout!!!!
