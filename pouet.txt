@@ -1,4 +1,5 @@
 Ceci est un fichier pouet//MODIFICATION 1.1 du fichier
 Ceci est une modification
 Une petite derniere
-Non une autre pour la route
+Non une autre pour la route // TEST DE FIN DE JOURNEE : c'est l'heure de l'apéritif!
+// The fatal one
