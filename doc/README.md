@@ -8,7 +8,8 @@ TP d'Architecture SI avec DDuportal
 Les scripts présents dans ce repository permettent d'obtenir un "geoportail" utilisant geoserver et postgis sous forme de conteneurs docker tournant sur une machine virtuelle boot2docker
 la procédure détaillée ici concerne une machine Windows sur laquelle sont installé Vagrant et Virtualbox.
 
-========== Arborescence
+==========
+Arborescence
 - doc 
 présent fichier + diagrammes vision utilisateur et "architecte"
 - proxy
