@@ -11,7 +11,7 @@ la procédure détaillée ici concerne une machine Windows sur laquelle sont instal
 ==========
 Arborescence
 - doc 
-présent fichier + diagrammes vision utilisateur et "architecte"
+diagrammes vision utilisateur et "architecte"
 - proxy
 script de configuration d'un proxy
 - vm
